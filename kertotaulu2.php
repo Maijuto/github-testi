@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Laskin</title>
+    <title>Kertotaulu</title>
 </head>
 <body>
     <h1> Tervetuloa, syötä numero ja saat vastaukseksi luvun kertotaulun 1-10! </h1>
