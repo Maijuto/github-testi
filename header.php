@@ -1,4 +1,4 @@
 <?php
     echo "Tämä on header";
-    echo "<img src='maisema.jpg' alt='maisemakuva'  />";
+    echo "<img src='headerkuva.gif' alt='sininen aalto'  />";
     ?>
